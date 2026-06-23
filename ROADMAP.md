@@ -19,3 +19,5 @@
 - [x] Tidy resources/
 - [x] Score
 - [x] High score
+- [ ] Board texture
+- [ ] Different food
